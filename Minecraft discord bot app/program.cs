@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-using CoreRCON;
 using Discord.WebSocket;
 
 namespace Minecraft_discord_bot_app
