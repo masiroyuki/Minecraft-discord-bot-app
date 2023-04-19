@@ -13,7 +13,7 @@ CommandAddはDisocordにコマンド登録するときに使います。
 ```
 "Port": マインクラフトサーバーのポートアドレス,
 
-"Path": マインクラフトサーバー実行ファイルのパス"C:\\Users\\yuppy\\Desktop\\Custum Minecraft Server\\Start.bat",
+"Path": マインクラフトサーバー実行ファイルのパス"例C:\\Users\\username\\Desktop\\Minecraft Server\\Start.bat",
 
 "Key": DisocordBotのKey,
 
