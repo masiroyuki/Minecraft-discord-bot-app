@@ -1,0 +1,8 @@
+{
+"Port": 25565,
+"Path": "xxx",
+"Key": "xxx",
+"ServerKey": 0,
+"CommandAdd": true,
+"ServerDirectory": "xxx"
+}
