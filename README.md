@@ -17,7 +17,7 @@ CommandAddはDisocordにコマンド登録するときに使います。
 
 "Key": DisocordBotのKey,
 
-"ServerKey": サーバーID,
+"ServerKey": DisocordサーバーID,
 
 "CommandAdd": true,
 ```
