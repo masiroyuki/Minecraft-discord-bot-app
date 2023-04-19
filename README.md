@@ -1,7 +1,7 @@
 # Minecraft-discord-bot-app
 
 # これは何
-DisocordからMinecraftのサーバーを起動させることが可能にするアプリです。
+DisocordからMinecraftのサーバーを起動させることが可能になるアプリです。
 
 # 初回セットアップ
 
